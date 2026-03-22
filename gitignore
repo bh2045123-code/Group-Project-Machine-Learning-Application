@@ -1,5 +1,11 @@
-data/
-results/
-figures/
 pycache/
 .ipynb_checkpoints/
+
+data/*
+!data/README.md
+
+results/*
+!results/README.md
+
+figures/*
+!figures/README.md
