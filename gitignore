@@ -1,1 +1,5 @@
-
+data/
+results/
+figures/
+pycache/
+.ipynb_checkpoints/
